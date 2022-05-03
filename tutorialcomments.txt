@@ -1,0 +1,10 @@
+git init - initialize git for that folder
+git status - get status of the files
+ls - list files
+ls -a - list files + hiddenn
+mkdir <name> - create folder
+touch <name> - create file
+ls .<name> - open file
+git commit -m "names.txt" - commit with a comment
+git restore --staged names.txt - remove from stage
+rm -rf names.txt - delete file
